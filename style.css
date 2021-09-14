@@ -1,0 +1,18 @@
+body {
+    background-color: green;background: rgb(2,0,36);
+    background: radial-gradient(circle, rgb(255, 0, 179) 0%, #a553e7 35%, #ff05ac 100%);
+    color: red;
+}
+.main {
+    background: linear-gradient(45deg, rgb(255, 0, 0) 0%,rgb(230, 255, 4) 35%, rgb(255, 153, 0) 100%);
+}
+.heading p {
+    font-family: 'Sunshiney', cursive;
+    font-size: 25px;
+    text-shadow: 5px 5px 5px yellow;
+}
+#footter {
+    font-family: 'Sunshiney', cursive;
+    font-size: 25px;
+    color: yellow;
+}
